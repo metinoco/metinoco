@@ -10,11 +10,29 @@
 
 ###
 
-<h2 align="left">👩‍💻  Sobre mí:</h2>
+<h2 align="left">😎  Sobre mí:</h2>
 
 ###
 
 <p align="left">👨🏻‍💻 Ingeniero de Sistemas con +5 años de experiencia colaborando en empresas de core tecnológico . Con iniciativa para resolver problemas eficientemente logrando las metas y objetivos trazados alineados a los OKR´s.<br><br>🧡 Soy un apasionado por el testing de software y las tecnologías de información, diseño ui/ux(Zeplin, Figma), marketing digital, diseño y desarrollo web bajo CMS (Wordpress - Drupal), tecnologías No Code y el aprendizaje continuo.<br>La capacidad analítica y curiosidad son grandes fuertes a la hora de proponer soluciones.<br><br>⚡ Siempre en búsqueda de innovación y todo aquello que implique darle la vuelta al rompecabezas para ver desde otra perspectiva.</p>
+
+###
+
+<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45px"> Conectemos:</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/metinoco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/monshy.tinoco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/metinoco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 ###
 
@@ -42,11 +60,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="15" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg" height="40" alt="notion logo"  />
+  
 </div>
 
 ###
 
-<h4 align="left">- Software testing:</h4>
+<h4 align="left">👉🏻 Software testing:</h4>
 
 ###
 
@@ -76,7 +97,7 @@
 
 ###
 
-<h4 align="left">- Design:</h4>
+<h4 align="left">👉🏻 Design:</h4>
 
 ###
 
@@ -132,24 +153,6 @@
 
 ###
 
-<h3 align="left">🫱🏻‍🫲🏻 Conectemos:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/metinoco" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/monshy.tinoco" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/metinoco" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">🔥 Github Analytics:</h3>
 
 ###
@@ -161,3 +164,11 @@
 </div>
 
 ###
+
+### 🐍 &nbsp;That's How Commits move ...
+
+<div align="center">
+  <a href="https://github.com/metinoco/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
