@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="240" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 
 ###
