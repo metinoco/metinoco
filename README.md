@@ -158,8 +158,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=metinoco&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=metinoco&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metinoco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2&custom_title=Lenguajes" height="140" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=metinoco&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metinoco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2&custom_title=Lenguajes" height="140" alt="languages graph"  /> -->
 </div>
 
 ###
