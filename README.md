@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Ingeniero de Sistemas con +5 años de experiencia colaborando en empresas de core tecnológico . Con iniciativa para resolver problemas eficientemente logrando las metas y objetivos trazados alineados a los OKR´s.<br><br>🧡 Soy un apasionado por el testing de software y las tecnologías de información, diseño ui/ux(Zeplin, Figma), marketing digital, diseño y desarrollo web bajo CMS (Wordpress - Drupal), tecnologías No Code y el aprendizaje continuo.<br>La capacidad analítica y curiosidad son grandes fuertes a la hora de proponer soluciones.<br><br>⚡ Siempre en búsqueda de innovación y todo aquello que implique darle la vuelta al rompecabezas para ver desde otra perspectiva.</p>
+<p align="left">👨🏻‍💻 Ingeniero de Sistemas con +6 años de experiencia colaborando en empresas de core tecnológico . Con iniciativa para resolver problemas eficientemente logrando las metas y objetivos trazados alineados a los OKR´s.<br><br>🧡 Soy un apasionado por el testing de software, las tecnologías de información, diseño ui/ux(Zeplin, Figma), marketing digital, diseño y desarrollo web bajo CMS (Wordpress - Drupal), tecnologías No Code y el aprendizaje continuo.<br>La capacidad analítica y curiosidad son grandes fuertes a la hora de proponer soluciones.<br><br>⚡ Siempre en búsqueda de innovación y todo aquello que implique darle la vuelta al rompecabezas para ver desde otra perspectiva.</p>
 
 ###
 
